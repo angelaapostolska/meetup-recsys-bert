@@ -19,13 +19,11 @@ A research implementation replicating and extending the work of [Halimeh et al. 
 - [Methodology](#methodology)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Key Findings](#key-findings)
 - [Future Improvements](#future-improvements)
 - [References](#references)
-- [License](#license)
 
 ---
 
@@ -218,3 +216,4 @@ Based on the analysis, the following enhancements could significantly improve pe
 ---
 
 **Keywords:** BERT, DistilBERT, Event Recommendation, Cold-Start Problem, K-Means Clustering, Foundation Models, Semantic Embeddings, Silhouette Score, Machine Learning, NLP
+
